@@ -8,6 +8,6 @@
 2-2-class-information
 Hello.
 a site containing information from second grade class 2
-It's 22 clean.
+It's 22 clin.
 You can check the class' assistants, seating arrangements, and timetable on this site.
 I will keep updating it.
