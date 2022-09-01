@@ -1,3 +1,10 @@
+/*
+* This is main css file.
+* If you create some files in the `screens` or `components`.
+* You have to import them to use it.
+* If you do not import them, they will not be applied to your website.
+*/
+
 /* Basic */
 @import 'reset.css';
 @import 'fonts.css';
