@@ -1,0 +1,11 @@
+/* Basic */
+@import 'reset.css';
+@import 'fonts.css';
+
+/* Components */
+@import 'components/table.css';
+
+/* Screens */
+@import 'screens/index.css';
+
+/* Animations */

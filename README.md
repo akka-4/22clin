@@ -1,4 +1,5 @@
 # 2-2-class-information
+
 안녕하십니까
 2학년 2반의 정보를 담는 사이트
 22clin 입니다.
