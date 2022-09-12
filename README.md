@@ -1,13 +1,19 @@
-# 2-2-class-information
+# 22 CLIN
 
-안녕하십니까
-2학년 2반의 정보를 담는 사이트
-22clin 입니다.
-이 사이트에서는 반의 도우미, 자리 배치, 시간표 등을 확인하실 수 있습니다.
-앞으로도 계속 업데이트 해나가도록 하겠습니다.
+Check information about 2-2 class of NPR School!
 
-Hello.
-a site containing information from second grade class 2
-It's 22 clin.
-You can check the class' assistants, seating arrangements, and timetable on this site.
-We will keep updating it.
+## What is this site?
+
+This site is compact website that you can check all of the information from this site includes assistants, seating charts, timetable and etc. This website have been being released. So, you can check the carefree informations that have been updated.
+
+## Why is it 22 CLIN?
+
+22 means class 2 of second grade of NPR Middle School. And CLIN is a shortcut of `class information`.
+
+## How can I visit this site?
+
+You can meet this website on [here](https://22-clin.vercel.app). But, I do not recommend you visit this website because it is being released. Please visit this website after official releasing.
+
+## License
+
+This service is based on [LISCENSE_NAME].
