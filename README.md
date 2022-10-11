@@ -18,4 +18,4 @@ You can meet this website on [here](https://22-clin.vercel.app). But, I do not r
 
 This service is based on MIT.
 
-
+> Language : [Korean](./ko.md)
