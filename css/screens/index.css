@@ -1,6 +1,6 @@
 * {
-  color: rgb(241, 241, 241);
-  background-color: rgb(255, 255, 255);
+  
+  background-color: rgb(240, 235, 227);
   font-size: large;
 }
 
@@ -10,8 +10,15 @@ body {
 
 h1 {
   font-size: 50px;
-  color: rgb(139, 0, 255);
+  color: rgb(54, 63, 81);
 }
+
+
 p {
-  color: rgb(139, 0, 255);
+  color: rgb(46, 58, 63);
+  margin-bottom: 35px;
+}
+
+h2 {
+  font-size: 20px;
 }
