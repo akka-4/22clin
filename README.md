@@ -4,11 +4,11 @@ Check information about 2-2 class of NPR School!
 
 ## What is this site?
 
-This site is compact website that you can check all of the information from this site includes assistants, seating charts, timetable and etc. This website have been being released. So, you can check the carefree informations that have been updated.
+This site is compact website that you can check all of the information from this site includes assignment, seating charts, timetable and etc. This website have been released so you can check the carefree updated informations.
 
-## Why is it 22 CLIN?
+## Why is it named 22 CLIN?
 
-22 means class 2 of second grade of NPR Middle School. And CLIN is a shortcut of `class information`.
+22 means class 2 of second grade of NPR Middle School. And CLIN is a shortcut of `"CL"ass "IN"formation`.
 
 ## How can I visit this site?
 
